@@ -1,0 +1,15 @@
+reset password - connect ke PHP
+mainPage,adminPage, - letak apan
+admin page - connect ke PHP /tukar edit ke delete
+
+bookingPage - kene buat
+bookingPage - connect ke PHP
+mainPage - connect book ke link bookingPage
+
+
+
+
+checkBooking - kene buat
+checkBooking - connect ke PHP
+
+logout PHP - kene buat
